@@ -8,6 +8,6 @@ ASTEROID_MAX_RADIUS = ASTEROID_MIN_RADIUS * ASTEROID_KINDS
 
 GAME_RUNNING = True
 
-PLAYER_RADIUS = 20
+PLAYER_RADIUS = 20 # pixels per second
 PLAYER_TURN_SPEED = 300  # degrees per second
-
+PLAYER_SPEED = 200  # pixels per second
